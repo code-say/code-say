@@ -38,7 +38,7 @@ Hi, I'm Sayan Mandal, a Full Stack Developer 🚀 from India 👨🏽‍💻. Be
 - 🌱 I’m currently learning something cool 😉
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: sayan.edev@gmail.com;
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2026 Goals: Contribute more to Open Source AI projects
 
 **Languages and Tools:**  
 
