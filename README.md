@@ -2,7 +2,7 @@
 
 <br/>
 <a href="https://www.linkedin.com/in/sayanmcse/">
-  <img align="left" alt="Sayan's LinkdeIN" width="22px" src="https://icons8.com/icon/8808/linkedin" />
+  <img align="left" alt="Sayan's LinkdeIN" width="22px" src="https://www.flaticon.com/free-icon/linkedin_3536569" />
 </a>
 
 Hi, I'm Sayan Mandal, a Full Stack Developer 🚀 from India.
